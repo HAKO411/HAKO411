@@ -34,6 +34,7 @@ I'm a master student from Otto von Guericke University, Germany. I'm pursuing th
 <a href="https://www.r-project.org/" target="_blank"><img align="left" alt="R" height ="42px" src="https://www.r-project.org/Rlogo.png"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://www.stata.com/" target="_blank"><img align="left" alt="Stata" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Stata_Logo.svg"></a>
+<a href="https://www.tableau.com/" target="_blank"><img align="left" alt="Tableau" height ="42px" src="gifs/tableaulogo_highres.png"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="visual studio code" height ="42px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png"></a>
 <a href="https://www.jetbrains.com/idea/" target="_blank"><img align="left" alt="intellij idea" height ="42px" src="https://img.icons8.com/color/240/000000/intellij-idea.png"></a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img align="left" alt="pycharm" height ="42px" src="https://img.icons8.com/color/240/000000/pycharm.png"></a>
