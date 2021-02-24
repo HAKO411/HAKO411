@@ -52,13 +52,18 @@ I'm a master student from Otto von Guericke University, Germany. I'm pursuing th
 
 ### Projects and Dev Stuffs:
 
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=HAKO411&show_icons=true" />    &nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAKO411)
+
+<!--
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HAKO411&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAKO411&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
-
+-->
+<br />
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
