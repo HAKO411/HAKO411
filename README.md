@@ -19,7 +19,7 @@ I'm a master student from Otto von Guericke University, Germany. I'm pursuing th
 - 🚀 &nbsp; I’m currently learning Machine Learning
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/HAKO411).
 - 📫 &nbsp; How to reach me: tridung.huynh@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/HAKO411/HAKO411/blob/main/Tri%20Dung%20Huynh%20resume.pdf).
+- 📝 &nbsp; Checkout my [CV](https://github.com/HAKO411/HAKO411/blob/main/Tri%20Dung%20Huynh%20CV.pdf).
 
 
 ### My Absolute Favorites:
