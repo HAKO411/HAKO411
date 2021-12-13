@@ -15,9 +15,9 @@ I'm a master student from Otto von Guericke University, Germany. I'm pursuing th
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Python, R, Java, Stata <br /> Matlab
-- 🚀 &nbsp; I’m currently learning Machine Learning
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/HAKO411).
+- 🛠 &nbsp; I’m currently working with Python, R, Java, Stata, Matlab
+- 🚀 &nbsp; I’m focusing on Optimization and Machine Learning
+- 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/HAKO411).
 - 📫 &nbsp; How to reach me: tridung.huynh@gmail.com.
 - 📝 &nbsp; Checkout my [CV](https://github.com/HAKO411/HAKO411/blob/main/Tri%20Dung%20Huynh%20CV.pdf).
 
