@@ -9,7 +9,7 @@
 -->
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=HAKO411&style=flat-square&color=0088cc)
 
-I'm a master student from Otto von Guericke University, Germany. I'm pursuing the application of Data Science in Finance and Business. I love to explore new technologies and leverage them to solve real-life problems. I'm currently into Machine Learning, Computational Finance and Financial Management.
+I'm pursuing the application of Data Science in Finance and Business. I love to explore new technologies and leverage them to solve real-life problems. I'm currently into Machine Learning, Computational Finance and Financial Management.
 
 <img align="right" height="270" width="470" alt="" src="gifs/data.jpg" />
 
