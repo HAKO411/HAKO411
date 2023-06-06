@@ -19,7 +19,7 @@ I'm pursuing the application of Data Science in Finance and Business. I love to 
 - 🚀 &nbsp; I’m focusing on Optimization and Machine Learning
 - 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/HAKO411).
 - 📫 &nbsp; How to reach me: tridung.huynh@gmail.com.
-- 📝 &nbsp; Checkout my [CV](Tri Dung Huynh (Dustin) Resume.pdf).
+- 📝 &nbsp; Checkout my [CV](https://github.com/HAKO411/HAKO411/blob/main/Tri%20Dung%20Huynh%20(Dustin)%20Resume.pdf).
 
 
 ### My Absolute Favorites:
