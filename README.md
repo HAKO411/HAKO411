@@ -52,7 +52,7 @@ I'm pursuing the application of Data Science in Finance and Business. I love to 
 
 ### Projects and Dev Stuffs:
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=HAKO411&show_icons=true" />    &nbsp;
+[comment]: <> (<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=HAKO411&show_icons=true" />    &nbsp;)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAKO411)
 
 <!--
