@@ -57,25 +57,11 @@ A Data Scientist specializing in machine learning, deep learning, and mathematic
 
 
 <details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HAKO411&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAKO411&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<br />
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HAKO411&hide_border=true" />
-</details>
-
-<details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> MacOS</li>
-	    <li><b>Laptop: </b> Macbook Pro 15</li>
+  	    <li><b>OS:</b> MacOS, Window </li>
+	    <li><b>Laptop: </b> Lenovo P16 and M3 Macbook Pro </li>
   	    <li><b>Browser: </b> Chrome</li>
 	    <li><b>Terminal </b> </li>
 	    <li><b>Code Editor:</b> VSCode, Pycharm, Intellij</li>
